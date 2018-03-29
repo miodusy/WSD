@@ -1,0 +1,2 @@
+# WSD
+Wizualizacja systemow dyskretnych
